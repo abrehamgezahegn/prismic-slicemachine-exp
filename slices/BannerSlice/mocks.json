@@ -1,0 +1,41 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "BannerSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Do quis non do elit elit cupidatat adipisicing reprehenderit dolor. Irure magna enim velit pariatur excepteur ipsum in tempor deserunt proident consectetur irure.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Quis ullamco aliquip laboris adipisicing ea commodo dolor do enim ad.",
+          "spans": []
+        }
+      ],
+      "link": {
+        "link_type": "Web",
+        "url": "http://twitter.com"
+      },
+      "linkLabel": "streamline killer deliverables",
+      "background": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1593642633279-1796119d5482?w=900&h=500&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "banner_slice"
+  }
+]

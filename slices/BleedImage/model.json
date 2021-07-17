@@ -1,0 +1,27 @@
+{
+  "id": "bleed_image",
+  "type": "SharedSlice",
+  "name": "BleedImage",
+  "description": "BleedImage",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "BleedImage",
+      "primary": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "id": "image",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
