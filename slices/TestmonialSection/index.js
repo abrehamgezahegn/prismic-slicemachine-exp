@@ -3,6 +3,7 @@ import { RichText } from "prismic-reactjs";
 
 const MySlice = ({ slice }) => (
   <section>
+    <h2>this is added in the code</h2>
     <span className="title">
       {slice.primary.title ? (
         <RichText render={slice.primary.title} />
@@ -15,6 +16,7 @@ const MySlice = ({ slice }) => (
     ) : (
       <p>start by editing this slice from inside the SliceMachine builder!</p>
     )}
+    <h2>this is added in the code</h2>
     <div className="testimonials">
       {slice?.items?.map((item, i) => (
         <div className="testimony">

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "TestSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Ut ullamco pariatur elit esse velit aliqua. Ut duis laborum esse deserunt aliqua. Aute reprehenderit dolore culpa ea ipsum qui consectetur duis excepteur.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Aute deserunt eiusmod aliquip ullamco ea esse do eiusmod ullamco ex aliquip velit ut. Nostrud eiusmod consectetur dolor. Labore minim irure dolor.",
+          "spans": []
+        }
+      ],
+      "avatar": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=900&h=500&fit=crop"
+      },
+      "select": ""
+    },
+    "items": [],
+    "slice_type": "test_slice"
+  }
+]

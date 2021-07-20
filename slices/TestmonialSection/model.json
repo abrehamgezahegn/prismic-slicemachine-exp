@@ -31,13 +31,14 @@
         }
       },
       "items": {
-        "avatar": {
-          "type": "Image",
+        "word": {
+          "type": "StructuredText",
           "config": {
-            "id": "avatar",
             "label": "",
-            "constraint": {},
-            "thumbnails": []
+            "id": "word",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
           }
         },
         "name": {
@@ -48,14 +49,13 @@
             "placeholder": ""
           }
         },
-        "word": {
-          "type": "StructuredText",
+        "avatar": {
+          "type": "Image",
           "config": {
+            "id": "avatar",
             "label": "",
-            "id": "word",
-            "placeholder": "",
-            "allowTargetBlank": true,
-            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+            "constraint": {},
+            "thumbnails": []
           }
         }
       }
