@@ -6,8 +6,9 @@ import resolver from "../sm-resolver.js";
 
 const Page = (props) => (
   <div>
-    <SliceZone {...props} resolver={resolver} />;
-    <h2>I added this in [uid] page</h2>
+    <h1>Nav bar here</h1>
+    <SliceZone {...props} resolver={resolver} />
+    <h2>footer hear</h2>
   </div>
 );
 
