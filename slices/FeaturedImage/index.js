@@ -4,7 +4,7 @@ import { Link } from "prismic-reactjs";
 
 const FeaturedImage = ({ slice }) => (
   <section className="highlight container">
-    <h1>Directly added this line</h1>
+    {/* <h1>Directly added this line</h1> */}
     <div>
       <RichText render={slice.primary.title} />
       <RichText render={slice.primary.headline} />
@@ -20,13 +20,15 @@ const FeaturedImage = ({ slice }) => (
         alt={slice.primary.featuredImage.alt}
       />
     </div>
-    <h1>Directly added this line</h1>
+    {/* <h1>Directly added this line</h1> */}
 
     <style jsx>{`
       .highlight {
         display: grid;
         grid-template-columns: 1fr 1fr;
         column-gap: 25px;
+        box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+        padding: 30px;
       }
       @media (max-width: 767px) {
         .highlight {

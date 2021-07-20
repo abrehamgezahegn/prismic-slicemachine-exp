@@ -1,0 +1,85 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "TestmonialSection",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Pariatur incididunt veniam excepteur sunt qui Lorem anim mollit id ad elit. Duis ut do qui eu dolore in do proident ullamco magna deserunt.",
+          "spans": []
+        }
+      ],
+      "Description": [
+        {
+          "type": "paragraph",
+          "text": "Ipsum cillum culpa nisi do aliquip eu anim. Do nisi adipisicing voluptate duis amet excepteur.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "avatar": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=900&h=500&fit=crop"
+        },
+        "name": "leverage dynamic bandwidth",
+        "word": [
+          {
+            "type": "paragraph",
+            "text": "Laborum excepteur Lorem excepteur non amet deserunt cupidatat ut sit exercitation.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "avatar": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=500&fit=crop"
+        },
+        "name": "recontextualize customized e-commerce",
+        "word": [
+          {
+            "type": "paragraph",
+            "text": "Quis ea non sunt proident ullamco veniam aliqua voluptate veniam. Labore ",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "avatar": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=500&fit=crop"
+        },
+        "name": "recontextualize customized e-commerce",
+        "word": [
+          {
+            "type": "paragraph",
+            "text": "Quis ea non sunt proident ullamco veniam aliqua voluptate veniam. Labore ",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "slice_type": "testmonial_section"
+  }
+]

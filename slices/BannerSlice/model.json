@@ -11,6 +11,15 @@
       "version": "sktwi1xtmkfgx8626",
       "description": "BannerSlice",
       "primary": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "id": "image",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
         "title": {
           "type": "StructuredText",
           "config": {

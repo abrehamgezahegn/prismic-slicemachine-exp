@@ -6,25 +6,34 @@
     "version": "sktwi1xtmkfgx8626",
     "description": "BannerSlice",
     "primary": {
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=900&h=500&fit=crop"
+      },
       "title": [
         {
           "type": "paragraph",
-          "text": "Do quis non do elit elit cupidatat adipisicing reprehenderit dolor. Irure magna enim velit pariatur excepteur ipsum in tempor deserunt proident consectetur irure.",
+          "text": "Adipisicing ex ad est.",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Quis ullamco aliquip laboris adipisicing ea commodo dolor do enim ad.",
+          "text": "Laboris amet quis minim id id incididunt pariatur voluptate aliquip enim aliquip ea voluptate consectetur. Quis dolore irure pariatur minim culpa consectetur. Aliquip elit laborum excepteur laborum ex nostrud qui ullamco ut.",
           "spans": []
         }
       ],
       "link": {
         "link_type": "Web",
-        "url": "http://twitter.com"
+        "url": "http://google.com"
       },
-      "linkLabel": "streamline killer deliverables",
+      "linkLabel": "whiteboard collaborative content",
       "background": {
         "dimensions": {
           "width": 900,
@@ -32,7 +41,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1593642633279-1796119d5482?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=900&h=500&fit=crop"
       }
     },
     "items": [],

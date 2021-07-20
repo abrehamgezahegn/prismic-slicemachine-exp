@@ -6,7 +6,10 @@ const MySlice = ({ slice }) => (
   <section>
     {console.log("slice", slice)}
     <div className="banner-content container">
+      <img src={slice.primary.image.url} alt={slice.primary.image.alt} />
       <h2 className="banner-title">{RichText.asText(slice.primary.title)}</h2>
+      {/* /* you might want to use a lib here (eg. react-oembed-container) */}
+      {/* <div dangerouslySetInnerHTML={{ __html: slice.primary.youtube }} /> */}
       <div className="banner-description">
         <RichText render={slice.primary.description} />
       </div>
@@ -34,10 +37,9 @@ const MySlice = ({ slice }) => (
       }
       .banner-title {
         width: 90%;
-        max-width: 490px;
+        max-width: 80%;
         margin-left: auto;
         margin-right: auto;
-        /* color: #ffffff; */
         font-size: 70px;
         font-weight: 900;
         line-height: 70px;

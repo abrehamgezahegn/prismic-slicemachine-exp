@@ -1,0 +1,64 @@
+{
+  "id": "testmonial_section",
+  "type": "SharedSlice",
+  "name": "TestmonialSection",
+  "description": "TestmonialSection",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "TestmonialSection",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "Description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "",
+            "id": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        }
+      },
+      "items": {
+        "avatar": {
+          "type": "Image",
+          "config": {
+            "id": "avatar",
+            "label": "",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "name": {
+          "type": "Text",
+          "config": {
+            "label": "",
+            "id": "name",
+            "placeholder": ""
+          }
+        },
+        "word": {
+          "type": "StructuredText",
+          "config": {
+            "label": "",
+            "id": "word",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        }
+      }
+    }
+  ]
+}
