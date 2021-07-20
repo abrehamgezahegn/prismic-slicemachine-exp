@@ -29,6 +29,7 @@ const FeaturedImage = ({ slice }) => (
         column-gap: 25px;
         box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
         padding: 30px;
+        margin-top: 100px;
       }
       @media (max-width: 767px) {
         .highlight {
